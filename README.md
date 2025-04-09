@@ -1,9 +1,6 @@
-- 👋 Hi, I’m @RodrigoAlv4 my real name is Rodrigo Alvarado
-- 👀 I’m interested in learn every day, and contribute to the company where I work
-- 🌱 I’m currently learning ... GitHub, Ing en Sistemas
-- 💞️ I’m looking to collaborate on ... with persons of my hob
-- 📫 How to reach me ... +503 7695-6495
-
+Ingeniero en Sistemas y Computación con Especialización en Ciencia de Datos, 
+busco una oportunidad para aplicar mis conocimientos en Análisis de Datos e Ingeniería. 
+Me considero una persona responsable, activa, entregada y honesta, cualidades que me permiten adaptarme y desempeñarme eficazmente en el rol asignado.
 <!---
 RodrigoAlv4/RodrigoAlv4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
